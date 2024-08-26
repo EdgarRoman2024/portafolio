@@ -1,6 +1,7 @@
 # Mi portafolio 
 
-Repositorio de mi portafolio - CV
+En este repostirio podras encontra una Landing Page de mi Curriculum Vitae, esto es un borrador ya que la informacion mostrada no esta acutalizada.
+Fue desarrollado con JavaScrip, HTML, CSS y el Framework Boostrap.
 
 ## Proyectos
 
